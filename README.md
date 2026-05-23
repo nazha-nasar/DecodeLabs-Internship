@@ -1,6 +1,9 @@
 # 📊 Exploratory Data Analysis Dashboard
 
 ## 🚀 Project Overview
+## 📸 Dashboard Preview
+
+![Dashboard Preview](EDA dashboard.png)
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** using Power BI on an e-commerce dataset. The dashboard was designed to uncover meaningful insights, identify trends and outliers, and support data-driven decision-making through interactive visualizations.
 
